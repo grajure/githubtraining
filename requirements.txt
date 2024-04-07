@@ -4,3 +4,6 @@ Emoji
 Chat options
 Colour
 Vibrant
+DarkMode
+Video
+Videocalls
